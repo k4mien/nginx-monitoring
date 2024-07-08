@@ -2,11 +2,16 @@
 Monitoring stack for nginx ssl web server
 
 ## Table of contents
+* [Demo](#demo)
 * [Tech stack](#tech-stack)
 * [Features](#features)
 * [To do](#to-do)
 * [Installation](#installation)
 * [More](#more)
+
+## Demo
+![Screenshot 2024-07-09 005607](https://github.com/k4mien/nginx-monitoring/assets/56881087/e79b94d0-48a7-40ba-b5a9-1cc7249cdfa1)
+![Screenshot 2024-07-09 005620](https://github.com/k4mien/nginx-monitoring/assets/56881087/e2dfe713-6f38-48c5-be7a-02b39ba64611)
 
 ## Tech stack
 - Docker
